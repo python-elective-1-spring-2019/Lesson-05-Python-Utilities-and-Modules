@@ -3,7 +3,7 @@ Agenda 01-03-2019
 
 
 ## Required reading
-* [HOWTO Fetch Internet Resources Using The urllib Package](https://github.com/python-elective-1-spring-2019/Lesson-04-Dictionary-Sets-Reading-and-Writing-Files)
+* [HOWTO Fetch Internet Resources Using The urllib Package](https://docs.python.org/3/howto/urllib2.html)
 
 ## Suplementary reading
 
