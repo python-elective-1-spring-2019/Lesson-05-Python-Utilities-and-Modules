@@ -13,15 +13,17 @@ Agenda 01-03-2019
 * [8.5. The with statement](https://docs.python.org/3/reference/compound_stmts.html#the-with-statement)
 * [os — Miscellaneous operating system interfaces](https://docs.python.org/3/library/os.html)
 
-
-
-
 ## Suplementary reading
+* [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
+* [Absolute vs Relative Imports in Python](https://realpython.com/absolute-vs-relative-python-imports/)
 
 ## Exercises
+* [Mandatory Assignment](https://github.com/python-elective-1-spring-2019/Lesson-07-Required-reading-Exercise/blob/master/exercises/README.md)
+
 <!-- * [copy.py](copy/copy.py) - _(To practice the file system and external-commands material)_
     * [xyz_hello.txt](copy/xyz_hello.txt)
-    * [zz__something__.jpg](copy/zz__something__.jpg) -->
+    * [zz__something__.jpg](copy/zz__something__.jpg) 
 * [puzzle.py](puzzle/puzzle.py) - _(To practice the urllib material)_
     * [animal_code.com](puzzle/animal_code.com)
     * [place_code.com](puzzle/place_code.com)
+-->
