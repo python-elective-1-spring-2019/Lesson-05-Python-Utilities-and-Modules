@@ -4,22 +4,32 @@ import subprocess
 from urllib.request import urlopen
 from urllib.error import HTTPError
 
-import url_Clbo
 
+try: 
+    res = urlopen('https://api.github.com/orgs/python-elective-1-spring-2019/repos?per_page=100')
+    resultat = res.read().decode('utf-8')
+    
+     
+    
+    file = open('github.json', 'w')
+    file.write(resultat)
 
+    subprocess.run(['open', 'dr.html'])
 
-
-
-url_Clbo.open_url()
+except HTTPError as err:
+    print(err)
+except Exception as err:
+    print(err)
 
 
 
 
 sys.exit()
 
-"""
-    This is reading a url and puts it into a file
-"""
+
+
+
+
 def open_file():
     while True:
         try: 
@@ -37,7 +47,6 @@ def open_file():
 
 open_file()
 
-"""
 
 
 
