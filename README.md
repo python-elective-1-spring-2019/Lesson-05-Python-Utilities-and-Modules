@@ -13,7 +13,7 @@ Agenda 01-03-2019
 * [8.5. The with statement](https://docs.python.org/3/reference/compound_stmts.html#the-with-statement)
 * [os — Miscellaneous operating system interfaces](https://docs.python.org/3/library/os.html)
 
-## Suplementary reading
+## Supplementary reading
 * [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
 * [Absolute vs Relative Imports in Python](https://realpython.com/absolute-vs-relative-python-imports/)
 
